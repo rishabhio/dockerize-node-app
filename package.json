@@ -1,0 +1,25 @@
+{
+    "name": "node-js-sample",
+    "version": "0.2.0",
+    "description": "A sample Node.js app using Express 4",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.13.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "node",
+        "express"
+    ],
+    "author": "Rishabh IO Rajat Sharma",
+    "contributors": [
+        "Rajat Sharma <rajatsharma1492@gmail.com>"
+    ],
+    "license": "MIT"
+}
